@@ -4,11 +4,8 @@
 
 ### Language
 > Java
-
-
 ### Contact
 email koryjlee@gmail.com 
-
 ### Page
 github https://github.com/KorYejinLee/KorYejinLee
 
