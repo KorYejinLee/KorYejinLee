@@ -1,9 +1,10 @@
 
 # 이예진
 ### 1998. 02. 23
-
 ### Language
 > Java
+### Framwork
+> Spring, Spring Boot, Hibernate
 ### Contact
 email koryjlee@gmail.com 
 ### Page
