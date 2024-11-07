@@ -7,12 +7,6 @@
 > Spring, Spring Boot, Hibernate
 ### Contact
 email koryjlee@gmail.com 
-### Page
-github https://github.com/KorYejinLee/KorYejinLee
-
-blog https://ellcoding.tistory.com/
-
-velog https://velog.io/@ellcoding/posts
 
 # Activity
 | 기간 | 활동명 | 내용 |
