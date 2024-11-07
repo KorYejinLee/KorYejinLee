@@ -2,7 +2,7 @@
 # 이예진
 ### 1998. 02. 23
 ### Language
-> Java
+> Java, Java Script
 ### Framwork
 > Spring, Spring Boot, Hibernate
 ### Contact
