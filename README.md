@@ -4,7 +4,7 @@
 ### Language
 > Java
 ### Framwork
-> Spring, Spring Boot, Hibernate
+> Spring Boot
 ### Contact
 email koryjlee@gmail.com 
 
