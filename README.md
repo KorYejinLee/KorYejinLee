@@ -2,9 +2,9 @@
 # 이예진
 ### 1998. 02. 23
 ### Language
-> Java
+> Java, TypeScript
 ### Framwork
-> Spring Boot
+> Spring Boot, Nest.js
 ### Contact
 email koryjlee@gmail.com 
 
